@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud security Projects:</h2>
 
-- <b>Principle of Least Privilege (PoLP) when creating system users</b>
+- <b>Principle of Least Privilege(Microsoft Azure Portal, Azure CLI, Azure Entra ID, Azure Powershell)</b>
   - [Cloud-security](https://github.com/Jackline-Kairuthi/Cloud-security)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
