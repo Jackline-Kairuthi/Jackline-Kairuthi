@@ -10,7 +10,7 @@
 - <b>Microsoft Excel</b>
   - [Sales Dashboards](https://github.com/Jackline-Kairuthi/Sales-dashboard)
   - [Workforce dashboard](https://github.com/Jackline-Kairuthi/Workforce-dashboard)
-  - [Workforce dashboard](https://github.com/Jackline-Kairuthi/Scatter-plot)
+  - [Performance profiling](https://github.com/Jackline-Kairuthi/Scatter-plot)
   - [Basic Excel Formatting](https://github.com/Jackline-Kairuthi/Basic-Excel-Formatting)
   - [Vlookup, Xlookup and pivot tables](https://github.com/Jackline-Kairuthi/V-XLookup-Pivot-tables)
     
