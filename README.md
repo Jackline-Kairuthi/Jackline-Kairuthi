@@ -6,6 +6,13 @@
   - [Cloud-security](https://github.com/Jackline-Kairuthi/Cloud-security)
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
+
+- <b>Microsoft Excel</b>
+  - [Sales Dashboards](https://github.com/Jackline-Kairuthi/Sales-dashboard)
+  - [Workforce dashboard](https://github.com/Jackline-Kairuthi/Workforce-dashboard)
+  - [Workforce dashboard](https://github.com/Jackline-Kairuthi/Scatter-plot)
+  - [Basic Excel Formatting](https://github.com/Jackline-Kairuthi/Basic-Excel-Formatting)
+  - [Vlookup, Xlookup and pivot tables](https://github.com/Jackline-Kairuthi/V-XLookup-Pivot-tables)
     
 <h2> 🤳 Connect with me:</h2>
 
