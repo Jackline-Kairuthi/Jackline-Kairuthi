@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Cloud security Projects:</h2>
 
-- <b>Principle of Least Privilege(Microsoft Azure Portal, Azure CLI, Azure Entra ID, Azure Powershell)</b>
-  - [Cloud-security](https://github.com/Jackline-Kairuthi/Cloud-security)
+- <b>Principle of Least Privilege(AWS Portal, Linux Virtual server)</b>
+  - [Linux server](https://github.com/Jackline-Kairuthi/Linux-virtual-server)
+ 
+<h2>👨‍💻 AWS Cloud Practioner:</h2>
+
+- <b>Managing users and group creation(Microsoft Azure Portal, Azure CLI, Azure Entra ID, Azure Powershell)</b>
+  - [Cloud-security](https://github.com/Jackline-Kairuthi/Cloud-security)  
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
