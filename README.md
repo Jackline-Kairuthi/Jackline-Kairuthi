@@ -2,12 +2,17 @@
 
 <h2>👨‍💻 Cloud security Projects:</h2>
 
-- <b>Principle of Least Privilege(AWS Portal, Linux Virtual server)</b>
+- <b>Principle of Least Privilege (AWS Portal, Linux Virtual server)</b>
   - [Linux server](https://github.com/Jackline-Kairuthi/Linux-virtual-server)
+
+ <h2>👨‍💻 AWS Solutions Architect:</h2>
+
+- <b>Virtual Private Cloud (AWS Portal, Linux Virtual server)</b>
+  - [Creating a NAT Gateway in AWS](https://github.com/Jackline-Kairuthi/AWS-Solutions-Architect)   
  
 <h2>👨‍💻 AWS Cloud Practioner:</h2>
 
-- <b>Managing users and group creation(Microsoft Azure Portal, Azure CLI, Azure Entra ID, Azure Powershell)</b>
+- <b>Managing users and group creation (Microsoft Azure Portal, Azure CLI, Azure Entra ID, Azure PowerShell)</b>
   - [Cloud-security](https://github.com/Jackline-Kairuthi/Cloud-security)  
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
