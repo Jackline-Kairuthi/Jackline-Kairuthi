@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jackline Kairuthi! <br/><a href="https://github.com/jackline-kairuthi">Data Analyst</a>, <a href="www.linkedin.com/in/jackiekairuthi/">Data Professional</a>
+<h1>Hi, I'm Jackline Kairuthi! <br/><a href="https://github.com/jackline-kairuthi">Data Analyst</a>, <a href="www.linkedin.com/in/jackiekairuthi/">Tech Professional</a>
 
 <h2>👨‍💻 Cloud security Projects:</h2>
 
