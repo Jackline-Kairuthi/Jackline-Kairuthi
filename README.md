@@ -7,8 +7,9 @@
 
  <h2>👨‍💻 AWS Solutions Architect:</h2>
 
-- <b>Virtual Private Cloud (AWS Portal, Linux Virtual server)</b>
-  - [Creating a NAT Gateway in AWS](https://github.com/Jackline-Kairuthi/AWS-Solutions-Architect)   
+- <b>Virtual Private Cloud (AWS Portal, Linux Virtual server, Windows virtual server)</b>
+  - [Creating a NAT Gateway in AWS - Linux server](https://github.com/Jackline-Kairuthi/Creating-a-NAT-Gateway-in-AWS_Linux-server)
+  - [Creating a NAT Gateway in AWS - Windows server](https://github.com/Jackline-Kairuthi/Creating-a-NAT-Gateway-in-AWS---Windows-server)
  
 <h2>👨‍💻 AWS Cloud Practioner:</h2>
 
