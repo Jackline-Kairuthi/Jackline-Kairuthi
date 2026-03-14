@@ -1,22 +1,22 @@
 <h1>Hi, I'm Jackline Kairuthi! <br/><a href="https://github.com/jackline-kairuthi">Data Analyst</a>, <a href="www.linkedin.com/in/jackiekairuthi/">Tech Professional</a>
 
-<h2>👨‍💻 Cloud security Projects:</h2>
+<h2>🔐 Cloud security Projects:</h2>
 
 - <b>Principle of Least Privilege (AWS Portal, Linux Virtual server)</b>
   - [Linux server](https://github.com/Jackline-Kairuthi/Linux-virtual-server)
 
- <h2>👨‍💻 AWS Solutions Architect:</h2>
+ <h2>🏗️AWS Solutions Architect:</h2>
 
 - <b>Virtual Private Cloud (AWS Portal, Linux Virtual server, Windows virtual server)</b>
   - [Creating a NAT Gateway in AWS - Linux server](https://github.com/Jackline-Kairuthi/Creating-a-NAT-Gateway-in-AWS_Linux-server)
   - [Creating a NAT Gateway in AWS - Windows server](https://github.com/Jackline-Kairuthi/Creating-a-NAT-Gateway-in-AWS---Windows-server)
  
-<h2>👨‍💻 AWS Cloud Practioner:</h2>
+<h2>☁️ Cloud Practioner:</h2>
 
 - <b>Managing users and group creation (Microsoft Azure Portal, Azure CLI, Azure Entra ID, Azure PowerShell)</b>
   - [Cloud-security](https://github.com/Jackline-Kairuthi/Cloud-security)  
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>📊 Data Analysis Projects:</h2>
 
 - <b>Python</b>
   - [Python Fundamentals](https://github.com/Jackline-Kairuthi/Python-Fundamentals)
