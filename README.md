@@ -18,6 +18,9 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
+- <b>Python</b>
+  - [Python Fundamentals](https://github.com/Jackline-Kairuthi/Python-Fundamentals)
+
 - <b>Microsoft Excel</b>
   - [Sales Dashboards](https://github.com/Jackline-Kairuthi/Sales-dashboard)
   - [Workforce dashboard](https://github.com/Jackline-Kairuthi/Workforce-dashboard)
