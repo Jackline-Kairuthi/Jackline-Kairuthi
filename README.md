@@ -1,5 +1,16 @@
-<h1>Hi, I'm Jackline Kairuthi! <br/><a href="https://github.com/jackline-kairuthi">Data Analyst</a>, <a href="www.linkedin.com/in/jackiekairuthi/">Tech Professional</a>
+<h1/>👋 Hi, I'm Jackline Kairuthi <br/><a href="https://github.com/jackline-kairuthi">Data Analyst, <a href="www.linkedin.com/in/jackiekairuthi/">Cloud Practitioner, <a href="www.linkedin.com/in/jackiekairuthi/"> DevOps Enthusiast</a>
+<br/> <a Data Analyst, Tech Professional, DevOps Enthusiast </a></h1>
+  
+Welcome to my GitHub!
 
+I’m passionate about cloud engineering, DevOps automation, data analytics, and secure system design.
+My work spans AWS, Azure, Linux, CI/CD pipelines, and analytical dashboards. </a>
+
+<h2>🚀 DevOps & CI/CD Projects:</h2>
+
+- <b>Automated CI/CD Pipeline (AWS Portal, Linux Virtual server, Git Bash)</b>
+  - [Techflow Solutions](https://github.com/Jackline-Kairuthi/Techflow-project)
+    
 <h2>🔐 Cloud security Projects:</h2>
 
 - <b>Principle of Least Privilege (AWS Portal, Linux Virtual server)</b>
