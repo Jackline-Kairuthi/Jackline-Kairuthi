@@ -31,6 +31,7 @@ My work spans AWS, Azure, Linux, CI/CD pipelines, and analytical dashboards. </a
 
 - <b>Python</b>
   - [Python Fundamentals](https://github.com/Jackline-Kairuthi/Python-Fundamentals)
+  - [Student Grade Manager (Loops, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/student-grade-manager)
 
 - <b>Microsoft Excel</b>
   - [Sales Dashboards](https://github.com/Jackline-Kairuthi/Sales-dashboard)
