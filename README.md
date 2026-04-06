@@ -8,7 +8,7 @@ My work spans AWS, Azure, Linux, CI/CD pipelines, and analytical dashboards. </a
 
 <h2>🚀 DevOps & CI/CD Projects:</h2>
 
-- <b>Automated CI/CD Pipeline (AWS Portal, Linux Virtual server, Git Bash)</b>
+- <b>Automated CI/CD Pipelines (AWS Portal, Linux Virtual server, Git Bash)</b>
   - [Techflow Solutions](https://github.com/Jackline-Kairuthi/Techflow-project)
     
 <h2>🔐 Cloud security Projects:</h2>
@@ -16,13 +16,13 @@ My work spans AWS, Azure, Linux, CI/CD pipelines, and analytical dashboards. </a
 - <b>Principle of Least Privilege (AWS Portal, Linux Virtual server)</b>
   - [Linux server](https://github.com/Jackline-Kairuthi/Linux-virtual-server)
 
- <h2>🏗️AWS Solutions Architect:</h2>
+ <h2>🏗️AWS Solutions Architect Projects:</h2>
 
 - <b>Virtual Private Cloud (AWS Portal, Linux Virtual server, Windows virtual server)</b>
   - [Creating a NAT Gateway in AWS - Linux server](https://github.com/Jackline-Kairuthi/Creating-a-NAT-Gateway-in-AWS_Linux-server)
   - [Creating a NAT Gateway in AWS - Windows server](https://github.com/Jackline-Kairuthi/Creating-a-NAT-Gateway-in-AWS---Windows-server)
  
-<h2>☁️ Cloud Practioner:</h2>
+<h2>☁️ Cloud Practioner Projects:</h2>
 
 - <b>Managing users and group creation (Microsoft Azure Portal, Azure CLI, Azure Entra ID, Azure PowerShell)</b>
   - [Cloud-security](https://github.com/Jackline-Kairuthi/Cloud-security)  
@@ -32,6 +32,7 @@ My work spans AWS, Azure, Linux, CI/CD pipelines, and analytical dashboards. </a
 - <b>Python</b>
   - [Python Fundamentals](https://github.com/Jackline-Kairuthi/Python-Fundamentals)
   - [Student Grade Manager (Loops, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/student-grade-manager)
+  - [Inventory Management System (CRUD, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/simple-inventory-management-system)
 
 - <b>Microsoft Excel</b>
   - [Sales Dashboards](https://github.com/Jackline-Kairuthi/Sales-dashboard)
