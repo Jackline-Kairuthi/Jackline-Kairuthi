@@ -4,7 +4,11 @@
 Welcome to my GitHub!
 
 I’m passionate about cloud engineering, DevOps automation, data analytics, and secure system design.
-My work spans AWS, Azure, Linux, CI/CD pipelines, and analytical dashboards. </a>
+My work spans AWS, Azure, Linux, CI/CD pipelines, Python automation, and Excel/Power BI dashboards that drive real business value.
+
+I’m currently working on:
+
+Python projects, Excel dashboards, Cloud security labs and DevOps workflows </a>
 
 <h2>🚀 DevOps & CI/CD Projects:</h2>
 
