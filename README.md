@@ -3,12 +3,23 @@
   
 Welcome to my GitHub!
 
-I’m passionate about cloud engineering, DevOps automation, data analytics, and secure system design.
-My work spans AWS, Azure, Linux, CI/CD pipelines, Python automation, and Excel/Power BI dashboards that drive real business value.
+I design secure, scalable, and automated systems across AWS, Azure, Linux, Terraform, CI/CD, Python, and Data Analytics. 
+My work blends cloud engineering with automation and data‑driven insights to deliver real business value.
 
-I’m currently working on:
+<h2>🌐 Core Focus Areas</h2>
 
-Python projects, Excel dashboards, Cloud security labs and DevOps workflows </a>
+- Cloud Infrastructure (AWS & Azure)
+
+- Infrastructure as Code (Terraform)
+- DevOps & CI/CD Automation
+- Cloud Security & IAM
+- Python Automation
+- Data Analytics (Excel, Power BI, Tableau) </a>
+
+<h2>🏗️ Infrastructure as Code (Terraform) Projects </h2>
+
+- <b>A full three‑tier AWS environment built using Infrastructure as Code. Includes VPC, public/private subnets, EC2, RDS PostgreSQL, security groups and remote state (S3 + DynamoDB) </b>
+   - [VaultBridge Infrastructure Modernisation (Terraform, AWS)](https://github.com/Jackline-Kairuthi/Terraform-project)
 
 <h2>🚀 DevOps & CI/CD Projects:</h2>
 
