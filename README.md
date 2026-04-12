@@ -50,6 +50,7 @@ My work blends cloud engineering with automation and data‑driven insights to d
   - [Inventory Management System (CRUD, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/simple-inventory-management-system)
 
 - <b>Microsoft Excel</b>
+  - [Procurement‑Spend‑Delivery‑Performance‑Dashboard](https://github.com/Jackline-Kairuthi/Procurement-Spend-Delivery-Performance-Dashboard)
   - [Sales Dashboards](https://github.com/Jackline-Kairuthi/Sales-dashboard)
   - [Workforce dashboard](https://github.com/Jackline-Kairuthi/Workforce-dashboard)
   - [Performance profiling](https://github.com/Jackline-Kairuthi/Scatter-plot)
