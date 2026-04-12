@@ -47,7 +47,7 @@ My work blends cloud engineering with automation and data‑driven insights to d
 - <b>Python</b>
   - [Python Fundamentals](https://github.com/Jackline-Kairuthi/Python-Fundamentals)
   - [Student Grade Manager (Loops, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/student-grade-manager)
-  - [Inventory Management System (CRUD, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/simple-inventory-management-system)
+  - [Procurement Inventory Management System (CRUD, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/Procurement-Spend-Delivery-Performance-Dashboard)
 
 - <b>Microsoft Excel</b>
   - [Procurement‑Spend‑Delivery‑Performance‑Dashboard](https://github.com/Jackline-Kairuthi/Procurement-Spend-Delivery-Performance-Dashboard)
