@@ -20,6 +20,9 @@ My work blends cloud engineering with automation and data‑driven insights to d
 
 - <b>A full three‑tier AWS environment built using Infrastructure as Code. Includes VPC, public/private subnets, EC2, RDS PostgreSQL, security groups and remote state (S3 + DynamoDB) </b>
    - [VaultBridge Infrastructure Modernisation (Terraform, AWS)](https://github.com/Jackline-Kairuthi/Terraform-project)
+     
+ - <b>A full production‑ready AWS environment built using Infrastructure as Code. Includes VPC with public/private subnets, Application Load Balancer, Target group, Launch Template, Auto Scaling Group, security groups, and remote state (S3 + DynamoDB). Designed for high availability and elastic scaling. </b>
+   - [Auto Scaling & Load Balancing Architecture (Terraform, AWS)](https://github.com/Jackline-Kairuthi/terraform-aws-autoscaling-infrastructure)
 
 <h2>🚀 DevOps & CI/CD Projects:</h2>
 
