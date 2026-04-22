@@ -59,6 +59,10 @@ My work blends cloud engineering with automation and data‑driven insights to d
   - [Performance profiling](https://github.com/Jackline-Kairuthi/Scatter-plot)
   - [Basic Excel Formatting](https://github.com/Jackline-Kairuthi/Basic-Excel-Formatting)
   - [Vlookup, Xlookup and pivot tables](https://github.com/Jackline-Kairuthi/V-XLookup-Pivot-tables)
+
+- <b>Tableau</b>
+  - [Procurement Spend & Performance Analytics Dashboard](https://github.com/Jackline-Kairuthi/procurement-analytics-dashboard)
+    
     
 <h2> 🤳 Connect with me:</h2>
 
