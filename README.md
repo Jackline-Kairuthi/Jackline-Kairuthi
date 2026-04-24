@@ -14,7 +14,7 @@ My work blends cloud engineering with automation and data‑driven insights to d
 - DevOps & CI/CD Automation
 - Cloud Security & IAM
 - Python Automation
-- Data Analytics (Excel, Power BI, Tableau) </a>
+- Data Analytics (Excel, Power BI, Tableau, SQL) </a>
 
 <h2>🏗️ Infrastructure as Code (Terraform) Projects </h2>
 
@@ -52,6 +52,12 @@ My work blends cloud engineering with automation and data‑driven insights to d
   - [Student Grade Manager (Loops, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/student-grade-manager)
   - [Procurement Inventory Management System (CRUD, Functions, Dictionaries)](https://github.com/Jackline-Kairuthi/Simple-Procurement-Inventory-Management-System)
 
+- <b>SQL</b>
+  - [Sales SQL Analysis](https://github.com/Jackline-Kairuthi/sales-sql-analysis)
+
+- <b>Tableau</b>
+  - [Procurement Spend & Performance Analytics Dashboard](https://github.com/Jackline-Kairuthi/procurement-analytics-dashboard)
+  
 - <b>Microsoft Excel</b>
   - [Procurement‑Spend‑Delivery‑Performance‑Dashboard](https://github.com/Jackline-Kairuthi/Procurement-Spend-Delivery-Performance-Dashboard)
   - [Sales Dashboards](https://github.com/Jackline-Kairuthi/Sales-dashboard)
@@ -60,8 +66,7 @@ My work blends cloud engineering with automation and data‑driven insights to d
   - [Basic Excel Formatting](https://github.com/Jackline-Kairuthi/Basic-Excel-Formatting)
   - [Vlookup, Xlookup and pivot tables](https://github.com/Jackline-Kairuthi/V-XLookup-Pivot-tables)
 
-- <b>Tableau</b>
-  - [Procurement Spend & Performance Analytics Dashboard](https://github.com/Jackline-Kairuthi/procurement-analytics-dashboard)
+
     
     
 <h2> 🤳 Connect with me:</h2>
