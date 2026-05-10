@@ -16,6 +16,13 @@ My work blends cloud engineering with automation and data‑driven insights to d
 - Python Automation
 - Data Analytics (Excel, Power BI, Tableau, SQL) </a>
 
+<h2>🚀 Featured Projects</h2>
+
+<h2>🔐 DevSecOps & Cloud Security</h2>
+
+- <b>A fully secured microservices banking platform with Vault, OPA Gatekeeper, Falco, Trivy, Checkov, Grafana dashboard, and a 7‑stage CI/CD pipeline. </b>
+  - [(https://github.com/Jackline-Kairuthi/SecureFlow-DevSecOps-Case-Study)]
+
 <h2>🏗️ Infrastructure as Code (Terraform) Projects </h2>
 
 - <b>A full three‑tier AWS environment built using Infrastructure as Code. Includes VPC, public/private subnets, EC2, RDS PostgreSQL, security groups and remote state (S3 + DynamoDB) </b>
