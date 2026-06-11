@@ -20,6 +20,9 @@ My work blends cloud engineering with automation and data‑driven insights to d
 
 <h2>🔐 DevSecOps & Cloud Security</h2>
 
+- <b>A full end‑to‑end security engineering project covering Application Security, Cloud Security, Infrastructure‑as‑Code, DevSecOps, and a Purple Team attack simulation. </b>
+  - [(https://github.com/Jackline-Kairuthi/sentinelpay-secure-cloud-devsecops)]
+
 - <b>A fully secured microservices banking platform with Vault, OPA Gatekeeper, Falco, Trivy, Checkov, Grafana dashboard, and a 7‑stage CI/CD pipeline. </b>
   - [(https://github.com/Jackline-Kairuthi/SecureFlow-DevSecOps-Case-Study)]
 
